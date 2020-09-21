@@ -1,3 +1,3 @@
 # PYTHON-PROBLEMS
 
-Brushing up Basic Python Problem solving skills
+Brushing up Basic Python Problem solving skill.
